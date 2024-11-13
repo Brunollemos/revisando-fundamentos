@@ -1,1 +1,1 @@
-Revisão de fundamentos básico da linguagen javascript.
+Revisão de fundamentos básicos da linguagen javascript.
